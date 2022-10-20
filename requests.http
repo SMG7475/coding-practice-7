@@ -1,0 +1,10 @@
+
+http://localhost/2000/players/
+
+###
+
+http://localhost/1000/players/1/playerScores/
+
+###
+
+http://localhost/2000/matches/2/players/
